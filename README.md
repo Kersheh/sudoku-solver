@@ -21,3 +21,5 @@ A heuristic approach at solving sudoku puzzles.
   0 0 0 0 0 9 7 0 8  
   0 0 2 0 1 0 4 0 5  
   0 0 7 0 4 8 0 3 0
+  
+  *two sample puzzles are included: sudoku_simple.txt and sudoku_ai_escargot.txt
